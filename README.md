@@ -1,6 +1,9 @@
 # Ninja-Warriors
 Is a 2D multiplayer fighting game where you select your hero and battle your friends to the death! 
 
+## Wire Frame
+![Screenshot](./img/wire-frame.png)
+
 ## Installation Instructions
 Fork code from github and run the index.html file on chrome or play game from the link listed here: @todo add link
 
